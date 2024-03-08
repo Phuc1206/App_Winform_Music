@@ -1,0 +1,37 @@
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\bin\Debug\AP09NXuânPhúc.exe.config
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\bin\Debug\AP09NXuânPhúc.exe
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\bin\Debug\AP09NXuânPhúc.pdb
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.csproj.AssemblyReference.cache
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.csproj.SuggestedBindingRedirects.cache
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.fr1Main09.resources
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.Properties.Resources.resources
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.csproj.GenerateResource.cache
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.csproj.CoreCompileInputs.cache
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.exe
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.pdb
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.fr2WMP09.resources
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\bin\Debug\Interop.WMPLib.dll
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\obj\Debug\Interop.WMPLib.dll
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Guitar\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.csproj.ResolveComReference.cache
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\bin\Debug\AP09NXuânPhúc.exe.config
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\bin\Debug\AP09NXuânPhúc.exe
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\bin\Debug\AP09NXuânPhúc.pdb
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\bin\Debug\Interop.WMPLib.dll
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.csproj.AssemblyReference.cache
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.csproj.SuggestedBindingRedirects.cache
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\obj\Debug\Interop.WMPLib.dll
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.csproj.ResolveComReference.cache
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.fr2WMP09.resources
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.Properties.Resources.resources
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.csproj.GenerateResource.cache
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.csproj.CoreCompileInputs.cache
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.exe
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.pdb
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.frMain09.resources
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\bin\Debug\irrKlang.NET4.dll
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.Fr3irrKlang09.resources
+C:\Users\phuc\Downloads\AP09NXPhúc.DAHP_Nhac cu\AP09NXuânPhúc\obj\Debug\AP09NXuânPhúc.csproj.CopyComplete
